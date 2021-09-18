@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="50" viewBox="0 0 64 50">
+  <defs>
+    <filter id="Path_104" x="0" y="0" width="64" height="50" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_4_2" data-name="Component 4 – 2" transform="translate(9 6)">
+    <g id="Group_2230" data-name="Group 2230" transform="translate(-1392 -8591.334)">
+      <g id="Group_2216" data-name="Group 2216" transform="translate(1392 8591.334)">
+        <g id="mountain-range" transform="translate(0 0)">
+          <g id="terrain" transform="translate(0 0)">
+            <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Path_104)">
+              <path id="Path_104-2" data-name="Path 104" d="M27.182,127.5l-7.945,13.333L25.3,150.967l-3.345,3.2c-3.555-5.867-9.409-16-9.409-16L0,159.5H46Z" transform="translate(9 -121.5)" fill="#eef600"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
